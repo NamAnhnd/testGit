@@ -1,4 +1,4 @@
 <?php
-echo "Update git đố ";
+echo "Update git oke ";
 
 echo "Update git branch oke";
